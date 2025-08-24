@@ -28,7 +28,7 @@ Dev Ops Engineer; Handles deployment,monitoring, scaling of the backend services
           2. User can reply to review or delete it
 
 
-## Feature Breadown
+## Feature Breakdown
 - API Documentation
 - User Authentication
 - Property Management
